@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "TrackMyStudy — Study Time Tracker",
+  "short_name": "TrackMyStudy",
+  "description": "Plan your study, track your focus, and make every hour count.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090e1b",
+  "theme_color": "#0b1020",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
